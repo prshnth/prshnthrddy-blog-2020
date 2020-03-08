@@ -1,6 +1,8 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <img alt="Gatsby" src="content/assets/pr-icon.png" width="60" />
+  <a href="https://prshnthrddy.com/">
+    <img alt="Gatsby" src="content/assets/pr-icon.png" width="60" />
+  </a>
 </p>
 <h1 align="center">
   My Personal blog
